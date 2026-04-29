@@ -14,3 +14,7 @@ Please cite as the following if you use this code:
 Lindsey, E. O. (2025). ericlindsey/euler_calc: October 11, 2025 Release (Version 1.0) \[Software\]. Zenodo. 
 
 [![DOI](https://zenodo.org/badge/492018672.svg)](https://doi.org/10.5281/zenodo.17328912)
+
+
+# Fengnian Chang
+Modified for Tianshan and Pamir area
