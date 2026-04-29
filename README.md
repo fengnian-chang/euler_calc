@@ -17,4 +17,9 @@ Lindsey, E. O. (2025). ericlindsey/euler_calc: October 11, 2025 Release (Version
 
 
 # Fengnian Chang
+
 Modified for Tianshan and Pamir area
+
+Supports custom polygon areas
+
+plot observations, model predictions, and residuals map within the AOI
